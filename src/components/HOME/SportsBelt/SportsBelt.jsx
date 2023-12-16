@@ -11,7 +11,9 @@ function SportsBelt() {
   return (
     <Box pb={6} pt={12} px={3} className="d-none d-md-block">
         <div className="text-white px-4 d-flex px-4 ">
-            <div className='SSA_24px_font'>Sports Bets</div>
+            <div className='SSA_24px_font '>Sports Bets
+            
+            </div>
             <div className="d-flex" style={{marginLeft:'auto'}}>
             <div className='SSA_15px_font' > See All   </div> &nbsp;
             <TbGridDots size={18} />

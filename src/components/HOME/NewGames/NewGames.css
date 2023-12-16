@@ -1,14 +1,21 @@
 .SSA_24px_font{
-    font-size: 24px;
+    font-size: 40px !important;
     line-height: normal;
     letter-spacing: normal;
+    /* background-color: rgb(168, 168, 233); */
+    color:  rgb(157, 189, 238);
+    border-bottom: 1px solid rgb(160, 160, 233);
 }
 
 .SSA_21px_font{
-    font-size: 21px;
+     
+    font-size: 28px !important;
     line-height: normal;
-    font-weight: 600;
     letter-spacing: normal;
+    /* background-color: rgb(168, 168, 233); */
+    color:  rgb(157, 189, 238) !important;
+    border-bottom: 1px solid rgb(160, 160, 233);
+    width: 50%;
 }
 
 .SSA_15px_font{

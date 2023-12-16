@@ -31,7 +31,7 @@ function CopyRightContent() {
                         Bluechip.io is owned and operated by XZ Solutions B.V., incorporated under the laws of Curaçao with company registration number 159328 and having its registered address at Dr. M. J. Hugenholtzweg 25, Unit 11, Curaçao. XZ Solutions B.V. is licensed and regulated by Antillephone N.V., license No. 8048/JAZ authorized by the Government of Curaçao. XZ Solutions Limited incorporated under the laws of the Republic of Cyprus with registration number HE 429164 and having its registered address at John Kennedy, 8, Iris Building, Limassol, the Republic of Cyprus, provides payment management services to XZ Solutions B.V.
                         <br /> <br />Gambling can be addictive. Play responsibly. Bluechip.io accepts only customers over 18 years of age.
                         <br /><br /><br /><br />
-                        Copyright © 2023 Bluechip All Rights Reserved
+                        
                     </div>
                 </div>
             </div>

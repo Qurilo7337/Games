@@ -17,10 +17,10 @@ export default function SimpleSlider() {
     slidesToShow: 2,
     slidesToScroll: 2,
   };
-
+  
   return (
     <div className="d-block d-md-none py-4">
-      <div className="text-white text-left pb-2 pt-4 SSA_21px_font">Sports Bets</div>
+      <div className="text-white text-left pb-2 pt-4 SSA_21px_font SSA_24px_font">Sports Bets</div>
       <Slider {...settings}>
         
           
